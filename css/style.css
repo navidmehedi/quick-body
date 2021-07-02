@@ -1,0 +1,370 @@
+body{
+	padding: 0;
+	margin: 0;
+}
+
+header{
+	padding: 10px 0;
+}
+
+
+/*Header Start*/
+
+.container {
+	width: 90%;
+	overflow: hidden;
+	margin: 0 auto;
+	border-bottom: 1px solid #EEF0F3;
+}
+
+.logo {
+	width: 5%;
+	float: left;
+}
+.logo a{
+
+}
+
+.logo a img{
+	width: 100%;
+	margin-top: 10px;
+
+}
+.menu {
+	width: 40%;
+	float: right;
+}
+.menu ul{
+	list-style: none;
+	float: right;
+
+
+}
+.menu ul li{
+	float: left;
+
+
+}
+.menu ul li a{
+	display: inline-block;
+	text-decoration: none;
+	margin: 0 15px;
+	font-size: 18px;
+	color: #0F2656 ;
+	text-transform: capitalize;
+
+}
+.menu ul li:last-child a{
+	margin-right: 0;
+}
+
+.menu ul li a:hover{
+	color: #0C66FF;
+	font-size: 120%;
+}
+
+/*Header End*/
+
+/*body start*/
+
+/*.image{*/
+	/*float: left;*/
+	padding-left: 228px ;
+	border-radius: 4px solid ;
+	padding-top: 20px;
+}
+
+
+/*banner start*/
+
+.b{
+	padding: 80px 0;
+}
+.cc{
+	width: 70%;
+	margin: 0 auto;
+}
+.b-cc{
+	text-align: center;
+}
+.b-cc h1{
+	font-size: 76px;
+	margin: 0 271px;
+	color: #0F2656;
+	line-height: ;
+}
+.b-cc h1 span{
+	color: #0C66FF;
+}
+.b-cc p{
+	color: #0F2656;
+	font-size: 21px;
+	margin: 6px 229px 20px;
+	color: #0F2656;
+	line-height: 30px
+}
+.b_img{
+	width: 50%;
+    margin: 0 auto;
+}
+}
+.b_img img{
+	width: 100%;
+}
+
+
+/*success start*/
+.success{
+	padding: 80px 502px;
+}
+.cc_1{}
+.s_content{}
+.s_left{}
+.s_left h2{}
+.s_left p{}
+.s_right{}
+.s_right h1{}
+.
+
+
+/*success end*/
+
+
+/*banner end*/
+
+
+
+
+
+
+
+
+/*.click{*/
+	/*width: 90%;*/
+}
+
+/*.click ul{*/
+	width: 35%;
+    list-style: none;
+    float: left;
+    display: inline-block;
+    padding-left: 80px;
+    /* margin: 0 auto; */
+    padding-top: 30px;
+}
+/*.click ul li{*/
+	float: left;
+
+}
+/*.click ul li a{*/
+	text-decoration: none;
+	font-size: 20px;
+	margin: 0 20px;
+	color: #0F2656;
+
+}
+
+/*.click ul li a:hover{*/
+	/*background-color: gray;*/
+	/*border-radius: 50%;*/
+	color: #0C66FF;
+	font-size: 120%
+}
+
+ /*next page*/
+
+ .container2 {
+	width: 60%;
+	overflow: hidden;
+	margin: 10px auto;
+	padding-right: 69px;
+	/*border-bottom: 1px solid #EEF0F3;*/
+}
+
+.logo2 {
+	width: 15%;
+	float: left;
+	padding-left: 140px;
+}
+
+.logo2 a img{
+	width: 100%;
+	margin-top: 5px;
+}
+
+.menu2 {
+	width: 70%;
+	float: right;
+}
+.menu2 ul{
+	list-style: none;
+	/*float: right;*/
+
+
+}
+.menu2 ul li{
+	float: left;
+
+
+}
+.menu2 ul li a{
+	display: inline-block;
+	text-decoration: none;
+	margin: 5px 15px;
+	font-size: 18px;
+	color: black ;
+	/*text-transform: capitalize;*/
+
+}
+.menu2 ul li:last-child a{
+	margin-right: 0;
+}
+
+.menu2 ul li a:hover{
+	color: #BC223C;
+	/*font-size: 120%;*/
+}
+
+
+/*banner start*/
+
+
+/*banner end*/
+
+
+
+
+/*previous button*/
+
+.click2{
+	margin-top: 150px;
+	margin-left: 900px;
+	text-decoration: none;
+}
+
+/*ex-1*/
+/*header start*/
+.container-3{
+	width: 90%;
+	overflow: hidden;
+	margin: 0 auto;
+	border-bottom: 1px solid #EEF0F3;
+}
+
+.logo-3{
+	width: 5%;
+	float: left;
+}
+.logo-3 a{
+
+}
+
+.logo-3 a img{
+	width: 50%;
+	margin-top: 7px;
+
+}
+.menu-3 {
+	width: 70%;
+	float: right;
+}
+.menu-3 ul{
+	list-style: none;
+	float: right;
+
+
+}
+.menu-3 ul li{
+	float: left;
+
+
+}
+.menu-3 ul li a{
+	display: inline-block;
+	text-decoration: none;
+	margin: 0 80px;
+	font-size: 18px;
+	color: #0F2656 ;
+	text-transform: capitalize;
+
+}
+.menu-3 ul li:last-child a{
+	margin-right: 0;
+}
+
+.menu-3 ul li a:hover{
+	color: #2586E5;
+	font-size: 120%;
+}
+.click3{
+	margin-top: 150px;
+	margin-left: 900px;
+	text-decoration: none;
+}
+
+/*ex-2*/
+
+ .container4 {
+	width: 60%;
+	overflow: hidden;
+	margin: 10px auto;
+	/*padding-right: 69px;*/
+	border-bottom: 1px solid #EEF0F3;
+}
+
+.logo4 {
+	width: 10%;
+	float: left;
+	/*padding-left: /*140*/px;*/
+	/*padding-right: 20px;*/
+}
+
+.logo4 a img{
+	width: 100%;
+	/*margin-top: 5px;*/
+	padding-right: 20px;
+
+}
+
+.menu4 {
+	width: 70%;
+	float: right;
+}
+.menu4 ul{
+	list-style: none;
+	float: right;
+
+
+}
+.menu4 ul li{
+	float: left;
+
+
+}
+.menu4 ul li a{
+	display: inline-block;
+	text-decoration: none;
+	margin: 12px 20px;
+	font-size: 18px;
+	color: black ;
+	text-transform: capitalize;
+
+
+}
+.menu4 ul li:last-child a{
+	margin-right: 0;
+}
+
+.menu4 ul li a:hover{
+	color: #A4C16B;
+	/*font-size: 120%;*/
+}
+
+/*previous button*/
+
+.click4{
+	margin-top: 150px;
+	margin-left: 900px;
+	text-decoration: none;
+}
+
